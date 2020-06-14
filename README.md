@@ -5,7 +5,6 @@ Code regarding the peer grading assignment Final Project Exam for the Coursera H
 
 Attachments:
 
-*finalproject.html
-*ProjectDescription.png
+*finalproject.html  *ProjectDescription.png
 
 The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
